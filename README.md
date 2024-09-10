@@ -36,7 +36,12 @@ All you need is a modern web browser to view and interact with the project.
 
 ### File Structure
 
-task-management-system/ │ ├── index.html # Main HTML file ├── mystyle.css # Styles for the app ├── myscript.js # Main JavaScript for task management └── README.md # This file
+task-management-system/  
+│  
+├── index.html         # Main HTML file  
+├── mystyle.css        # Styles for the app  
+├── myscript.js        # Main JavaScript for task management  
+└── README.md          # This file  
 
 
 
